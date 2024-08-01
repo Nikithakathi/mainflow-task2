@@ -7,7 +7,7 @@ Easy-to-use search bar
 Responsive design for all devices
 Setup
 ## Clone the Repository:
--- Copy 
+Copy 
 git clone https://github.com/Nikithakathi/mainflow-task2.git
 ## Open the Project:
 Open index.html in your web browser.
